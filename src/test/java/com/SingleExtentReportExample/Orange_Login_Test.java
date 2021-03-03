@@ -33,7 +33,7 @@ public class Orange_Login_Test {
 			//driver.findElementByName("txtUsername").sendKeys("Admin");
 			//driver.findElementByName("txtPassword").sendKeys("admin123");
 			driver.findElement(By.id("btnLogin")).click();
-			driver.findElement(By.linkText("ashboard")).isDisplayed();	
+			driver.findElement(By.linkText("Dashboard")).isDisplayed();	
 		} catch (Exception e) {
 			Assert.fail(e.getMessage());
 		}

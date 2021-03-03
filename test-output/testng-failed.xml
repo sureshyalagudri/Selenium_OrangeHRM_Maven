@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.OrangeHRM.Windchill_Test">
+      <class name="com.SingleExtentReportExample.Orange_Login_Test">
         <methods>
-          <include name="afterMethod"/>
-          <include name="OpenInCreoView"/>
-          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="Login"/>
         </methods>
-      </class> <!-- com.OrangeHRM.Windchill_Test -->
+      </class> <!-- com.SingleExtentReportExample.Orange_Login_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
