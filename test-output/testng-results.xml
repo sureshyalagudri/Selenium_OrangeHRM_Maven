@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46688" started-at="2021-03-02T05:51:59Z" finished-at="2021-03-02T05:52:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46688" started-at="2021-03-02T05:51:59Z" finished-at="2021-03-02T05:52:46Z">
+      <class name="com.OrangeHRM.Windchill_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.OrangeHRM.Windchill_Test@192b07fd]" name="beforeMethod" is-config="true" duration-ms="7757" started-at="2021-03-02T05:52:00Z" finished-at="2021-03-02T05:52:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="OpenInCreoView()[pri:0, instance:com.OrangeHRM.Windchill_Test@192b07fd]" name="OpenInCreoView" duration-ms="38167" started-at="2021-03-02T05:52:07Z" finished-at="2021-03-02T05:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenInCreoView -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.OrangeHRM.Windchill_Test@192b07fd]" name="afterMethod" is-config="true" duration-ms="733" started-at="2021-03-02T05:52:45Z" finished-at="2021-03-02T05:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.OrangeHRM.Windchill_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="4" parallel="Classes">
+	<test name="Test">
+		<classes>
+			<class name="com.OrangeHRM.SmokeTestSuite" />
+			<class name="com.OrangeHRM.Drag_Drop_Test" />
+			<class name="com.OrangeHRM.Windchill_Test" />
+			<class name="com.OrangeHRM.Login_HDFC" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
