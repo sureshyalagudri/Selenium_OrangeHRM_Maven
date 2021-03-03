@@ -7,7 +7,6 @@
 		<classes>
 			<class name="com.SingleExtentReportExample.Drag_Drop_Test" />
 			<class name="com.SingleExtentReportExample.Orange_Login_Test" />
-			<class name="com.OrangeHRM.Windchill_Test" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
